@@ -1,5 +1,3 @@
-//  哈夫曼树与哈夫曼编码
-
 #include <iostream>
 #include <map>
 #include <vector>
