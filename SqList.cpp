@@ -84,6 +84,7 @@ bool ListDelete(SqList &L, int i, int &e)
 int main()
 {
     SqList L;
+    IncreaseSize(L,5);
     int i=1;
     InitList(L);
     ListInerst(L,i++,1);
